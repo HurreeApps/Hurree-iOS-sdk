@@ -6,15 +6,23 @@
 	<dict>
 		<key>Headers/ExceptionHandler.h</key>
 		<data>
-		1GUGLsr7H4sKyqLZn9AqP+XHcq4=
+		hPpID7OhuM9cKU+L68+OvppjTfo=
+		</data>
+		<key>Headers/HurreeAnalytics.h</key>
+		<data>
+		G//ozYk1TlSBRujQh/TP3jXqW8g=
 		</data>
 		<key>Headers/HurreeSDK-Swift.h</key>
 		<data>
 		GNbDrVCzTaeikxuXRaUH0dmpAak=
 		</data>
-		<key>Headers/QSSAnalytics.h</key>
+		<key>HurreeSDK.momd/HurreeSDK.mom</key>
 		<data>
-		pesA0m0xdDw0jX4YaLO4xhtJdJc=
+		Wa5kXzAroPpRWCXVyvI3Amq7Fz8=
+		</data>
+		<key>HurreeSDK.momd/VersionInfo.plist</key>
+		<data>
+		yONwJwkSrcSfeSw3w0MrYcHl7Zw=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -26,7 +34,7 @@
 		</data>
 		<key>Modules/HurreeSDK.swiftmodule/arm.swiftmodule</key>
 		<data>
-		3Ekt4v54nsw2skRF5cm1cNaokvo=
+		kkRpf3Dy1UsW0q5/asgtMy0zFwU=
 		</data>
 		<key>Modules/HurreeSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -34,7 +42,7 @@
 		</data>
 		<key>Modules/HurreeSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		QgrxTOcfNazg4O6Du4JTgzFTML4=
+		g52qQ6nmOmDBArKeSHV+PIvUbF8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -42,34 +50,34 @@
 		</data>
 		<key>OfferViewController.nib</key>
 		<data>
-		DDfhCjun3W5AB3zuOotlDwWxWNQ=
+		TGkLB/GzSs10ilZ6V0MNaSJYhHU=
 		</data>
 		<key>PNG_transparency_demonstration_1.png</key>
 		<data>
 		f3JATuVE/HXDQgpat0wa22GchLE=
-		</data>
-		<key>QSSAnalytics.momd/QSSAnalytics.mom</key>
-		<data>
-		Wa5kXzAroPpRWCXVyvI3Amq7Fz8=
-		</data>
-		<key>QSSAnalytics.momd/VersionInfo.plist</key>
-		<data>
-		5NgM9NLR12iUk2MPVLGpXE9bJHs=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
 		<key>Headers/ExceptionHandler.h</key>
 		<data>
-		1GUGLsr7H4sKyqLZn9AqP+XHcq4=
+		hPpID7OhuM9cKU+L68+OvppjTfo=
+		</data>
+		<key>Headers/HurreeAnalytics.h</key>
+		<data>
+		G//ozYk1TlSBRujQh/TP3jXqW8g=
 		</data>
 		<key>Headers/HurreeSDK-Swift.h</key>
 		<data>
 		GNbDrVCzTaeikxuXRaUH0dmpAak=
 		</data>
-		<key>Headers/QSSAnalytics.h</key>
+		<key>HurreeSDK.momd/HurreeSDK.mom</key>
 		<data>
-		pesA0m0xdDw0jX4YaLO4xhtJdJc=
+		Wa5kXzAroPpRWCXVyvI3Amq7Fz8=
+		</data>
+		<key>HurreeSDK.momd/VersionInfo.plist</key>
+		<data>
+		yONwJwkSrcSfeSw3w0MrYcHl7Zw=
 		</data>
 		<key>Modules/HurreeSDK.swiftmodule/arm.swiftdoc</key>
 		<data>
@@ -77,7 +85,7 @@
 		</data>
 		<key>Modules/HurreeSDK.swiftmodule/arm.swiftmodule</key>
 		<data>
-		3Ekt4v54nsw2skRF5cm1cNaokvo=
+		kkRpf3Dy1UsW0q5/asgtMy0zFwU=
 		</data>
 		<key>Modules/HurreeSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -85,7 +93,7 @@
 		</data>
 		<key>Modules/HurreeSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		QgrxTOcfNazg4O6Du4JTgzFTML4=
+		g52qQ6nmOmDBArKeSHV+PIvUbF8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -93,19 +101,11 @@
 		</data>
 		<key>OfferViewController.nib</key>
 		<data>
-		DDfhCjun3W5AB3zuOotlDwWxWNQ=
+		TGkLB/GzSs10ilZ6V0MNaSJYhHU=
 		</data>
 		<key>PNG_transparency_demonstration_1.png</key>
 		<data>
 		f3JATuVE/HXDQgpat0wa22GchLE=
-		</data>
-		<key>QSSAnalytics.momd/QSSAnalytics.mom</key>
-		<data>
-		Wa5kXzAroPpRWCXVyvI3Amq7Fz8=
-		</data>
-		<key>QSSAnalytics.momd/VersionInfo.plist</key>
-		<data>
-		5NgM9NLR12iUk2MPVLGpXE9bJHs=
 		</data>
 	</dict>
 	<key>rules</key>

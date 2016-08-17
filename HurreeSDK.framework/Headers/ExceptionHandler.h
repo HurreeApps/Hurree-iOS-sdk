@@ -1,9 +1,8 @@
 //
 //  ExceptionHandler.h
-//  QSSAnalytics
 //
-//  Created by QSS on 15/06/16.
-//  Copyright © 2016 QSS. All rights reserved.
+//  Created by Hurree on 15/06/16.
+//  Copyright © 2016 Hurree. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
