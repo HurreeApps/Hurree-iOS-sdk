@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>FontAwesome.otf</key>
+		<data>
+		BIcHvFKsS2VjqqODv+hmCg3ckIw=
+		</data>
 		<key>Headers/ExceptionHandler.h</key>
 		<data>
 		hPpID7OhuM9cKU+L68+OvppjTfo=
@@ -26,7 +30,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		4R5XXNgZ2zBAOUmYH9mLplzQYyM=
+		tcb5fJqXFHQuSaW7A9v3hkKgNcU=
 		</data>
 		<key>Modules/HurreeSDK.swiftmodule/arm.swiftdoc</key>
 		<data>
@@ -34,7 +38,7 @@
 		</data>
 		<key>Modules/HurreeSDK.swiftmodule/arm.swiftmodule</key>
 		<data>
-		kkRpf3Dy1UsW0q5/asgtMy0zFwU=
+		93jc9AXAxVplTqIxF+y4HookPkw=
 		</data>
 		<key>Modules/HurreeSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -42,7 +46,7 @@
 		</data>
 		<key>Modules/HurreeSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		g52qQ6nmOmDBArKeSHV+PIvUbF8=
+		nsfI2ET7NFPwZM6mZh3raxBwqCU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -50,63 +54,173 @@
 		</data>
 		<key>OfferViewController.nib</key>
 		<data>
-		TGkLB/GzSs10ilZ6V0MNaSJYhHU=
+		5ltI4oJ6XzbuLF8fipvwAXoFQ3k=
 		</data>
 		<key>PNG_transparency_demonstration_1.png</key>
 		<data>
 		f3JATuVE/HXDQgpat0wa22GchLE=
+		</data>
+		<key>SliderCustomHTMLViewController.nib</key>
+		<data>
+		hvHK02HQs5Jabp3OaTmlfOC9f8o=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>FontAwesome.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BIcHvFKsS2VjqqODv+hmCg3ckIw=
+			</data>
+			<key>hash2</key>
+			<data>
+			RE3UNmYV/8ShbQErL6kBNwZdPMtBD6b9Xk3de15P/NU=
+			</data>
+		</dict>
 		<key>Headers/ExceptionHandler.h</key>
-		<data>
-		hPpID7OhuM9cKU+L68+OvppjTfo=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			hPpID7OhuM9cKU+L68+OvppjTfo=
+			</data>
+			<key>hash2</key>
+			<data>
+			UexhSnSDROaINpoXnj6Oco1eIZO0QwC9a9b4Jt3ZhR8=
+			</data>
+		</dict>
 		<key>Headers/HurreeAnalytics.h</key>
-		<data>
-		G//ozYk1TlSBRujQh/TP3jXqW8g=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			G//ozYk1TlSBRujQh/TP3jXqW8g=
+			</data>
+			<key>hash2</key>
+			<data>
+			lF+DLVPLroVAPFfK9DLUkahiM5zNdYdOTBlGtBDID5I=
+			</data>
+		</dict>
 		<key>Headers/HurreeSDK-Swift.h</key>
-		<data>
-		GNbDrVCzTaeikxuXRaUH0dmpAak=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			GNbDrVCzTaeikxuXRaUH0dmpAak=
+			</data>
+			<key>hash2</key>
+			<data>
+			FlSCOnqPqkh7oaROuKC9w9jtLUsP8d5JSWddumD7hJc=
+			</data>
+		</dict>
 		<key>HurreeSDK.momd/HurreeSDK.mom</key>
-		<data>
-		Wa5kXzAroPpRWCXVyvI3Amq7Fz8=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			Wa5kXzAroPpRWCXVyvI3Amq7Fz8=
+			</data>
+			<key>hash2</key>
+			<data>
+			TaDbaY9GsyDQfMsfXh3nSmcyfF8UaTkXZYStq76Le/E=
+			</data>
+		</dict>
 		<key>HurreeSDK.momd/VersionInfo.plist</key>
-		<data>
-		yONwJwkSrcSfeSw3w0MrYcHl7Zw=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			yONwJwkSrcSfeSw3w0MrYcHl7Zw=
+			</data>
+			<key>hash2</key>
+			<data>
+			o2pBeRNAENjLm7NIW2pWwf6yeFKn5gC30v7xQ+wGtAw=
+			</data>
+		</dict>
 		<key>Modules/HurreeSDK.swiftmodule/arm.swiftdoc</key>
-		<data>
-		tY5dUES5PcF3GHvVAA1f6EcJwtw=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			tY5dUES5PcF3GHvVAA1f6EcJwtw=
+			</data>
+			<key>hash2</key>
+			<data>
+			WTKr7Xv8QhQBNEJEIUFf3Bg/bVCb3h/TG968FVzA77U=
+			</data>
+		</dict>
 		<key>Modules/HurreeSDK.swiftmodule/arm.swiftmodule</key>
-		<data>
-		kkRpf3Dy1UsW0q5/asgtMy0zFwU=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			93jc9AXAxVplTqIxF+y4HookPkw=
+			</data>
+			<key>hash2</key>
+			<data>
+			kXuAvL6CpM7g7Uz52mSGtwtfNC3GeHlZ0lORifthL+Q=
+			</data>
+		</dict>
 		<key>Modules/HurreeSDK.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		j61JwPFLkLwmOx8kp5C8wuKz5Vo=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			j61JwPFLkLwmOx8kp5C8wuKz5Vo=
+			</data>
+			<key>hash2</key>
+			<data>
+			065vLcOpBiTaIfUdFxq4WljmBHSZrchQBG2qkVwZoXc=
+			</data>
+		</dict>
 		<key>Modules/HurreeSDK.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		g52qQ6nmOmDBArKeSHV+PIvUbF8=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			nsfI2ET7NFPwZM6mZh3raxBwqCU=
+			</data>
+			<key>hash2</key>
+			<data>
+			DxjhRDAyEsvWgn7YySZpTFhIsTRletlAvVEGgEnmfKQ=
+			</data>
+		</dict>
 		<key>Modules/module.modulemap</key>
-		<data>
-		sFVxxeaczkJgWq1+bmkypCRgdj4=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			sFVxxeaczkJgWq1+bmkypCRgdj4=
+			</data>
+			<key>hash2</key>
+			<data>
+			QZDe4UEonqubTbAxUJc8AQSGDQk9YPNfQKUU0QJAa+A=
+			</data>
+		</dict>
 		<key>OfferViewController.nib</key>
-		<data>
-		TGkLB/GzSs10ilZ6V0MNaSJYhHU=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			5ltI4oJ6XzbuLF8fipvwAXoFQ3k=
+			</data>
+			<key>hash2</key>
+			<data>
+			i/WDjuk6KPgx/XTyS8SmamU5FEGNNPNY92FlkAY0nwU=
+			</data>
+		</dict>
 		<key>PNG_transparency_demonstration_1.png</key>
-		<data>
-		f3JATuVE/HXDQgpat0wa22GchLE=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			f3JATuVE/HXDQgpat0wa22GchLE=
+			</data>
+			<key>hash2</key>
+			<data>
+			T0+x3iYGuUoUHxjbijwkb9+sxER/XH6vsAnJft7bKkU=
+			</data>
+		</dict>
+		<key>SliderCustomHTMLViewController.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hvHK02HQs5Jabp3OaTmlfOC9f8o=
+			</data>
+			<key>hash2</key>
+			<data>
+			UUX++XErY5RyZFVZ1ZwlBtj17piIxka2sGS7GzUOE8Q=
+			</data>
+		</dict>
 	</dict>
 	<key>rules</key>
 	<dict>
