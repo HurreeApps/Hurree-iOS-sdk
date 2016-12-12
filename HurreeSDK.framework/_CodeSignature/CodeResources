@@ -4,10 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>FontAwesome.otf</key>
-		<data>
-		BIcHvFKsS2VjqqODv+hmCg3ckIw=
-		</data>
 		<key>Headers/ExceptionHandler.h</key>
 		<data>
 		hPpID7OhuM9cKU+L68+OvppjTfo=
@@ -18,7 +14,7 @@
 		</data>
 		<key>Headers/HurreeSDK-Swift.h</key>
 		<data>
-		GNbDrVCzTaeikxuXRaUH0dmpAak=
+		CqalVuQ7du05WD5dPb96B7JYStc=
 		</data>
 		<key>HurreeSDK.momd/HurreeSDK.mom</key>
 		<data>
@@ -34,19 +30,19 @@
 		</data>
 		<key>Modules/HurreeSDK.swiftmodule/arm.swiftdoc</key>
 		<data>
-		tY5dUES5PcF3GHvVAA1f6EcJwtw=
+		VkRwPdRbIYEvyB5Ib2wPf9ck3vU=
 		</data>
 		<key>Modules/HurreeSDK.swiftmodule/arm.swiftmodule</key>
 		<data>
-		93jc9AXAxVplTqIxF+y4HookPkw=
+		I7q80/tODxsY6TmiRfl+NRaxENY=
 		</data>
 		<key>Modules/HurreeSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		j61JwPFLkLwmOx8kp5C8wuKz5Vo=
+		K65Ld7hBqcbr7LfcEgXpw/wvZDg=
 		</data>
 		<key>Modules/HurreeSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		nsfI2ET7NFPwZM6mZh3raxBwqCU=
+		j4KNVQ9aKLhU8OwrPRgvGTgYC44=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -54,7 +50,7 @@
 		</data>
 		<key>OfferViewController.nib</key>
 		<data>
-		5ltI4oJ6XzbuLF8fipvwAXoFQ3k=
+		fA2mcUS92nv1ePKk6cLxcx1QRSM=
 		</data>
 		<key>PNG_transparency_demonstration_1.png</key>
 		<data>
@@ -62,22 +58,11 @@
 		</data>
 		<key>SliderCustomHTMLViewController.nib</key>
 		<data>
-		hvHK02HQs5Jabp3OaTmlfOC9f8o=
+		Nu6kWhYXxMGaSYLLQzIJr2tmdWI=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>FontAwesome.otf</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BIcHvFKsS2VjqqODv+hmCg3ckIw=
-			</data>
-			<key>hash2</key>
-			<data>
-			RE3UNmYV/8ShbQErL6kBNwZdPMtBD6b9Xk3de15P/NU=
-			</data>
-		</dict>
 		<key>Headers/ExceptionHandler.h</key>
 		<dict>
 			<key>hash</key>
@@ -104,11 +89,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GNbDrVCzTaeikxuXRaUH0dmpAak=
+			CqalVuQ7du05WD5dPb96B7JYStc=
 			</data>
 			<key>hash2</key>
 			<data>
-			FlSCOnqPqkh7oaROuKC9w9jtLUsP8d5JSWddumD7hJc=
+			LCoWtZRzmHsnWfxAE5DD2noQMjPVsb9YemXqnFVUJ+8=
 			</data>
 		</dict>
 		<key>HurreeSDK.momd/HurreeSDK.mom</key>
@@ -137,44 +122,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tY5dUES5PcF3GHvVAA1f6EcJwtw=
+			VkRwPdRbIYEvyB5Ib2wPf9ck3vU=
 			</data>
 			<key>hash2</key>
 			<data>
-			WTKr7Xv8QhQBNEJEIUFf3Bg/bVCb3h/TG968FVzA77U=
+			vnNLgdtcDBpFY+uw8udzC7ZVGZsDh/hfoxnszLi3EO8=
 			</data>
 		</dict>
 		<key>Modules/HurreeSDK.swiftmodule/arm.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			93jc9AXAxVplTqIxF+y4HookPkw=
+			I7q80/tODxsY6TmiRfl+NRaxENY=
 			</data>
 			<key>hash2</key>
 			<data>
-			kXuAvL6CpM7g7Uz52mSGtwtfNC3GeHlZ0lORifthL+Q=
+			6MhZjM+wHOCkslWo2RaVi93I6O0C/GSfBHsmyLRktyg=
 			</data>
 		</dict>
 		<key>Modules/HurreeSDK.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			j61JwPFLkLwmOx8kp5C8wuKz5Vo=
+			K65Ld7hBqcbr7LfcEgXpw/wvZDg=
 			</data>
 			<key>hash2</key>
 			<data>
-			065vLcOpBiTaIfUdFxq4WljmBHSZrchQBG2qkVwZoXc=
+			b/ImdHGFFR29in5twYUJUcDyOb8S4klB2IOr5UbdrOw=
 			</data>
 		</dict>
 		<key>Modules/HurreeSDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nsfI2ET7NFPwZM6mZh3raxBwqCU=
+			j4KNVQ9aKLhU8OwrPRgvGTgYC44=
 			</data>
 			<key>hash2</key>
 			<data>
-			DxjhRDAyEsvWgn7YySZpTFhIsTRletlAvVEGgEnmfKQ=
+			7JKN3F+d8N2CR60PIOQrn6hRNJluZoN+PGEmw/GNFTE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -192,11 +177,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5ltI4oJ6XzbuLF8fipvwAXoFQ3k=
+			fA2mcUS92nv1ePKk6cLxcx1QRSM=
 			</data>
 			<key>hash2</key>
 			<data>
-			i/WDjuk6KPgx/XTyS8SmamU5FEGNNPNY92FlkAY0nwU=
+			AbYT+EXi+nosiqAMUHjf90GlWYgRt7fVEV5MI3DG0MM=
 			</data>
 		</dict>
 		<key>PNG_transparency_demonstration_1.png</key>
@@ -214,11 +199,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hvHK02HQs5Jabp3OaTmlfOC9f8o=
+			Nu6kWhYXxMGaSYLLQzIJr2tmdWI=
 			</data>
 			<key>hash2</key>
 			<data>
-			UUX++XErY5RyZFVZ1ZwlBtj17piIxka2sGS7GzUOE8Q=
+			47BaiHMIaH1PPcK3Q0c+iXbsH7opOTAw7EKixMTAqIw=
 			</data>
 		</dict>
 	</dict>

@@ -155,7 +155,7 @@ SWIFT_CLASS("_TtC9HurreeSDK18AnalyticsSingleton")
 /// \param deviceTokenString @deviceTokenString is the device token received in the didRegisterForRemoteNotificationsWithDeviceToken of Appdelegate. That's why recommended that the login code snippet should be implemented in didRegisterForRemoteNotificationsWithDeviceToken as it will update the login time and device token on the server.
 ///
 /// \param timerValue @timeValue is the timer time interval value in seconds. Minimum setup to 300 seconds.
-- (void)deportKeyValues:(NSString * _Nonnull)app_group_key app_key:(NSString * _Nonnull)app_key uniqueUserID:(id _Nonnull)uniqueUserID deviceTokenString:(id _Nullable)deviceTokenString timerValue:(id _Nullable)timerValue;
+- (void)deportKeyValues:(NSString * _Nonnull)app_group_key app_key:(NSString * _Nonnull)app_key uniqueUserID:(id _Nonnull)uniqueUserID deviceTokenString:(id _Nullable)deviceTokenString timerValue:(id _Nullable)timerValue isiOSNative:(BOOL)isiOSNative;
 
 /// In order to accomplish the logout and login in single function, rather than using the standard methods for the login and logout, you can use change user.\Important 
 ///
